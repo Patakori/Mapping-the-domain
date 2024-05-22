@@ -1,9 +1,9 @@
 ### Entidades:
-- [tag:Produto]
-- [tag:Alerta]
-- [tag:Vendas]
-- [tag:Estoque]
-- [tag:Fornecedor]
+- [Produto]
+- [Alerta]
+- [Vendas]
+- [Estoque]
+- [Fornecedor]
 
 ### Casos de Uso:
 1. **Criar produto**:
