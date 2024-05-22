@@ -1,9 +1,9 @@
 ### Entidades:
-- [Produto]
-- [Alerta]
-- [Vendas]
-- [Estoque]
-- [Fornecedor]
+- Produto
+- Alerta
+- Vendas
+- Estoque
+- Fornecedor
 
 ### Casos de Uso:
 1. **Criar produto**:
